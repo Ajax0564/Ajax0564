@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning machine learning
 - 📫 How to reach me ankitmaurya0564@gmail.com
 
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{ajax0564}/competition/light)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{ajax0564}/notebook/light)
+
 
 https://www.kaggle.com/ajax0564
 
