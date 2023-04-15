@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ajax0564
 - 👀 I’m interested in Artificial intelligence
-- 🌱 I’m currently learning machine learning
 - 📫 How to reach me ankitmaurya0564@gmail.com
 
 
